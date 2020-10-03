@@ -1,5 +1,5 @@
-#include "TicTacToeClasses.cpp"
-#include "TicTacToeFunctions.cpp"
+#include "tictactoeclass.cpp"
+#include "tictactoefunctions.cpp"
 
 
 int main()
